@@ -115,7 +115,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className="absolute inset-y-0 left-0 max-[800px]:-top-96 flex items-center px-2 md:px-4 z-50">
+            <div className="absolute inset-y-0 left-0 max-[800px]:-top-72 flex items-center px-2 md:px-4 z-50">
                 <button
                     onClick={handlePrev}
                     className="p-3 md:p-4 border border-white cursor-pointer rounded-full bg-white/10 hover:scale-125 transition-transform duration-500"
@@ -125,7 +125,7 @@ const Home = () => {
             </div>
 
            
-            <div className="absolute inset-y-0 right-0 max-[800px]:-top-96 flex items-center px-2 md:px-4 z-50">
+            <div className="absolute inset-y-0 right-0 max-[800px]:-top-72 flex items-center px-2 md:px-4 z-50">
                 <button
                     onClick={handleNext}
                     className="p-3 md:p-4 border border-white cursor-pointer rounded-full bg-white/10 hover:scale-125 transition-transform duration-500"
