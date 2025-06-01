@@ -1,7 +1,7 @@
 export const AllData = [
     {
         id: "can2",
-        img: "https://purepng.com/public/uploads/large/purepng.com-pepsi-canfood-juice-sweet-pepsi-cold-can-drink-beverage-cool-941524623313ln568.png",
+        img: "/Pepsi.png",
         name: "PEPSI",
         DATA:
             "Bold, refreshing, and iconic. Pepsi fuels your creativity with a spark of originality and style.",
@@ -20,7 +20,7 @@ export const AllData = [
 
     {
         id: "can3",
-        img: "https://pngimg.com/d/fanta_PNG30.png",
+        img: "/pngimg.com - fanta_PNG30.png",
         name: "FANTA",
         DATA:
             "Dive into a world of fruity fizz and playful energy. Fanta makes imagination pop with every bubble.",
@@ -29,7 +29,7 @@ export const AllData = [
     },
     {
         id: "can4",
-        img: "https://www.pngplay.com/wp-content/uploads/15/Sprite-Can-Free-PNG.png",
+        img: "/Sprite-Can-Free-PNG.png",
         name: "SPRITE",
         DATA:
             "Crisp, clean, and refreshingly green. Sprite clears your mind and cools your design flow.",
